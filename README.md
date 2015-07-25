@@ -3,7 +3,7 @@
 ### Atari 400 styled WASD V2 
 
 ANSI 104 Keyboard layout you can use with WASD keyboards, custom layout 
-tool.
+tool. (Use the SVG file, not the png.)
 
 ### License 
 
